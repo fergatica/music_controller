@@ -4,7 +4,7 @@ from rest_framework import generics
 from .serializers import RoomSerializer
 from .models import Room
 
-# Create your views here.
+# Views below this
 #def main(request):
 #   return HttpResponse("<h1>first test</h1>")
 
